@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"> 
+<suite name="Paralleltestruns"> 
+<test name="TestMavenTestNG">
+<classes>
+<class name="com.cisco.YahooTest"/>
+<class name="com.cisco.GoogleTest"/>
+<class name="com.cisco.BingTest"/>
+</classes>
+</test>
+</suite>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="17510" started-at="2014-09-02T05:56:25Z" finished-at="2014-09-02T05:56:43Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="17510" started-at="2014-09-02T05:56:25Z" finished-at="2014-09-02T05:56:43Z">
+      <class name="com.cisco.GoogleTest">
+        <test-method status="PASS" signature="verifySearch()[pri:0, instance:com.cisco.GoogleTest@7b2be1bd]" name="verifySearch" duration-ms="5774" started-at="2014-09-01T22:56:31Z" finished-at="2014-09-01T22:56:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+      </class> <!-- com.cisco.GoogleTest -->
+      <class name="com.cisco.BingTest">
+        <test-method status="PASS" signature="verifySearch()[pri:0, instance:com.cisco.BingTest@1cb8deef]" name="verifySearch" duration-ms="5992" started-at="2014-09-01T22:56:25Z" finished-at="2014-09-01T22:56:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+      </class> <!-- com.cisco.BingTest -->
+      <class name="com.cisco.YahooTest">
+        <test-method status="PASS" signature="verifySearch()[pri:0, instance:com.cisco.YahooTest@2d342ba4]" name="verifySearch" duration-ms="5728" started-at="2014-09-01T22:56:37Z" finished-at="2014-09-01T22:56:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+      </class> <!-- com.cisco.YahooTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
