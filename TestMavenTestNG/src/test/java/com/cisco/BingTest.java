@@ -11,7 +11,7 @@ import org.testng.annotations.Test;
 		public void verifySearch() 
 		{
 			driver = new FirefoxDriver();
-			driver.get("http://www.google.com/");
+			driver.get("http://www.facebook.com/");
 			driver.quit();
 		}
 	}
